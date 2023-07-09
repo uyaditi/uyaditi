@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, Python, Machine Learning.**
 
-- 📫 How to reach me **aditigaikwad003@gmail.com,**
+- 📫 How to reach me **aditigaikwad003@gmail.com**
 
 - ⚡ Fun fact **I love playing guitar**
 
