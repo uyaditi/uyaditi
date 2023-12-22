@@ -1,9 +1,7 @@
-<img height="150" width="900" src="https://th.bing.com/th/id/OIP.bhG0OVvQwaSfEJwWj-TwuQHaBv?pid=ImgDet&rs=1">
-
 <h1 align="center">Hi 👋, I'm Aditi Gaikwad</h1>
 <h3 align="center">A tech enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-working-computer-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-1444.jpg?size=338&ext=jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uyaditi&label=Profile%20views&color=0e75b6&style=flat" alt="uyaditi" /> </p>
 
