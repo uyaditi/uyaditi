@@ -28,7 +28,7 @@
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uyaditi&show_icons=true&locale=en&layout=compact" alt="uyaditi" width="250" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=uyaditi&show_icons=true&locale=en" alt="uyaditi" width="350" height="250"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=uyaditi&show_icons=true&locale=en" alt="uyaditi" width="350" height="250"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uyaditi" alt="uyaditi" width="350" height="250"/>
 </div>
 
