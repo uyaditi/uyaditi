@@ -18,7 +18,7 @@
 
 ✔ Pronouns: ***She/Her*** <br>
 ✔ I’m currently pursuing a **B. Tech in CSE (Data Science) @ DJSCE**<br>
-✔ I’m currently learning **ML, Software Development**<br>
+✔ I’m currently learning **ML, Backend Technologies**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ Fun fact : *I love playing guitar!*<br><br><br><br>
  
