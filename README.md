@@ -22,7 +22,7 @@
 ✔ I’m currently pursuing a **B. Tech in CSE (Data Science) @ DJSCE**<br>
 ✔ I’m currently learning **ML, Backend Technologies**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ Fun fact : *I love playing guitar!*<br><br><br><br>
+✔ Fun fact : *I love playing guitar as much as I love reading books!*<br><br><br><br>
  
  <hr>
 
