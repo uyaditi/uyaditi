@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thuongtruong1009&label=Profile%20views&color=0e75b6&style=flat" alt="thuongtruong1009" /> </p>
 <img align="right" width="300" height="220" alt="awesome image" src="https://github.com/uyaditi/uyaditi/assets/126171723/1e680acc-bff9-4067-9ebd-2487c52c5bd1" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuff...***
 
 ✔ Pronouns: ***She/Her*** <br>
 ✔ I’m currently pursuing a **B. Tech in CSE (Data Science) @ DJSCE**<br>
