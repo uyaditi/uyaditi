@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/uyaditi/uyaditi/assets/126171723/103c2023-5c74-4167-a750-50c67fce74b6" />
+<img src="https://github.com/uyaditi/uyaditi/assets/126171723/c12509a0-eb5c-409f-9c8d-c5d514079ea5" width=1300 height=200/>
 
 </p>
 <hr>
