@@ -19,11 +19,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuff...***
 
 ✔ Pronouns: ***She/Her*** <br>
-✔ I’m currently pursuing a **B. Tech in CSE (Data Science) @ DJSCE**<br>
-✔ I’m currently learning **ML, Backend Technologies**<br>
+✔ I’m a **B. Tech graduate in CSE (Data Science) @ DJSCE**<br>
+✔ I’m entusiatic about **ML, AI and Backend Technologies**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br> 
 ✔ [Here](https://drive.google.com/file/d/1po94exD_s3aKFQ5HpvpUuHWLjoR-lGrF/view?usp=sharing)'s my resume <br> 
-✔ Fun fact : *I love playing guitar as much as I love reading books!*<br><br><br><br>
+✔ About me : *I love playing guitar and I love reading books!*<br><br><br><br>
  
  <hr>
 
