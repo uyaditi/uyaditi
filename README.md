@@ -3,7 +3,7 @@
 
 </p>
 <hr>
-<h1 align="center">Hi, I'm Aditi :)</h1>
+<h1 align="center">Hi, I'm Aditi</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aditig06/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -13,13 +13,13 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thuongtruong1009&label=Profile%20views&color=0e75b6&style=flat" alt="thuongtruong1009" /> </p>
-<img align="right" width="300" height="220" alt="awesome image" src="https://github.com/uyaditi/uyaditi/assets/126171723/1e680acc-bff9-4067-9ebd-2487c52c5bd1" />
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=thuongtruong1009&label=Profile%20views&color=0e75b6&style=flat" alt="thuongtruong1009" /> </p> 
+ <img align="right" width="300" height="220" alt="awesome image" src="https://github.com/uyaditi/uyaditi/assets/126171723/1e680acc-bff9-4067-9ebd-2487c52c5bd1" /> 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuff...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me...***
 
 ✔ Pronouns: ***She/Her*** <br>
-✔ I’m a **B. Tech graduate in CSE (Data Science) @ DJSCE**<br>
+✔ I’m a Computer SCiene and Engineering (Data Science) 2025 Graduate from Dwarkadas J. Sanghvi College of Engineering, M<br>
 ✔ I’m entusiatic about **ML, AI and Backend Technologies**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br> 
 ✔ [Here](https://drive.google.com/file/d/1po94exD_s3aKFQ5HpvpUuHWLjoR-lGrF/view?usp=sharing)'s my resume <br> 
