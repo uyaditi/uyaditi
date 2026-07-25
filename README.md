@@ -5,10 +5,10 @@
 <hr>
 <!-- <h1 align="center">Hi, I'm Aditi</h1> -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/aditig06/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: aditigaikwad003@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
+</p> -->
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=thuongtruong1009&label=Profile%20views&color=0e75b6&style=flat" alt="thuongtruong1009" /> </p> 
  <!-- <img align="right" width="300" height="220" alt="awesome image" src="https://github.com/uyaditi/uyaditi/assets/126171723/1e680acc-bff9-4067-9ebd-2487c52c5bd1" />  -->
